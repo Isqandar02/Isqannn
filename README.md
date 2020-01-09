@@ -1,14 +1,10 @@
-Welcome to Glitch
+HTML/CSS Starter Project
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
+This is an example of the final code for the project that we will create during the workshop.
 
 
-Your Project
+The Project Files
 ------------
 
 ### ← README.md
@@ -17,21 +13,21 @@ That's this file, where you can tell people what your cool website does and how 
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+That's where all of the HTML, i.e. the content, is located. 
 
 ### ← style.css
 
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
+That's where we're going to be writing all of the CSS for the page, i.e. the styling (presentational customizations) are located.
 
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
+That's where you would save assets for your website.
 
-Made by [Glitch](https://glitch.com/)
--------------------
+We won't be using that folder in this project but you could easily use this for assets instead of the unsplash image that we added to the project. You can drag in `assets`, like images or music, to add them to your project.
 
-\ ゜o゜)ノ
+### Other Folders
+
+### Finished Project
+See the [finished project](https://glitch.com/~html-css-workshop). (It may not be exactly the same as the page you worked on today, as we are always changing the workshop!)
+
+## Get a PDF file of the Presentation
